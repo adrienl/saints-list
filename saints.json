@@ -1,6 +1,9 @@
 [
     {
-        "date": "01-03",
+        "date": {
+            "month": 1,
+            "day": 3
+        },
         "name": "Geneviève",
         "sex": "F",
         "shortName": "",
@@ -8,7 +11,10 @@
         "isIndividual": true
     },
     {
-        "date": "01-04",
+        "date": {
+            "month": 1,
+            "day": 4
+        },
         "name": "Angèle de Foligno",
         "sex": "F",
         "shortName": "Angèle",
@@ -16,7 +22,10 @@
         "isIndividual": true
     },
     {
-        "date": "01-08",
+        "date": {
+            "month": 1,
+            "day": 8
+        },
         "name": "Gudule",
         "sex": "F",
         "shortName": "",
@@ -24,7 +33,10 @@
         "isIndividual": true
     },
     {
-        "date": "01-09",
+        "date": {
+            "month": 1,
+            "day": 9
+        },
         "name": "Alix Le Clerc",
         "sex": "F",
         "shortName": "Alix",
@@ -32,7 +44,10 @@
         "isIndividual": true
     },
     {
-        "date": "01-10",
+        "date": {
+            "month": 1,
+            "day": 10
+        },
         "name": "Guillaume",
         "sex": "M",
         "shortName": "",
@@ -40,7 +55,10 @@
         "isIndividual": true
     },
     {
-        "date": "01-14",
+        "date": {
+            "month": 1,
+            "day": 14
+        },
         "name": "Hilaire de Poitiers",
         "sex": "M",
         "shortName": "Hilaire",
@@ -48,7 +66,10 @@
         "isIndividual": true
     },
     {
-        "date": "01-15",
+        "date": {
+            "month": 1,
+            "day": 15
+        },
         "name": "Bonnet, Evêque de Clermont",
         "sex": "M",
         "shortName": "Bonnet",
@@ -56,7 +77,10 @@
         "isIndividual": true
     },
     {
-        "date": "01-15",
+        "date": {
+            "month": 1,
+            "day": 15
+        },
         "name": "Paul, Ermite",
         "sex": "M",
         "shortName": "Paul",
@@ -64,7 +88,10 @@
         "isIndividual": true
     },
     {
-        "date": "01-16",
+        "date": {
+            "month": 1,
+            "day": 16
+        },
         "name": "Marcel Ier, Pape et Martyr",
         "sex": "M",
         "shortName": "Marcel",
@@ -72,7 +99,10 @@
         "isIndividual": true
     },
     {
-        "date": "01-16",
+        "date": {
+            "month": 1,
+            "day": 16
+        },
         "name": "Honorat",
         "sex": "M",
         "shortName": "",
@@ -80,7 +110,10 @@
         "isIndividual": true
     },
     {
-        "date": "01-16",
+        "date": {
+            "month": 1,
+            "day": 16
+        },
         "name": "Blaise",
         "sex": "M",
         "shortName": "",
@@ -88,7 +121,10 @@
         "isIndividual": true
     },
     {
-        "date": "01-17",
+        "date": {
+            "month": 1,
+            "day": 17
+        },
         "name": "Antoine du désert",
         "sex": "M",
         "shortName": "Antoine",
@@ -96,7 +132,10 @@
         "isIndividual": true
     },
     {
-        "date": "01-20",
+        "date": {
+            "month": 1,
+            "day": 20
+        },
         "name": "Fabien",
         "sex": "M",
         "shortName": "",
@@ -104,7 +143,10 @@
         "isIndividual": true
     },
     {
-        "date": "01-20",
+        "date": {
+            "month": 1,
+            "day": 20
+        },
         "name": "Sébastien",
         "sex": "M",
         "shortName": "",
@@ -112,7 +154,10 @@
         "isIndividual": true
     },
     {
-        "date": "01-21",
+        "date": {
+            "month": 1,
+            "day": 21
+        },
         "name": "Agnès",
         "sex": "F",
         "shortName": "",
@@ -120,7 +165,10 @@
         "isIndividual": true
     },
     {
-        "date": "01-22",
+        "date": {
+            "month": 1,
+            "day": 22
+        },
         "name": "Vincent",
         "sex": "M",
         "shortName": "",
@@ -128,7 +176,10 @@
         "isIndividual": true
     },
     {
-        "date": "01-22",
+        "date": {
+            "month": 1,
+            "day": 22
+        },
         "name": "Anastase",
         "sex": "M",
         "shortName": "",
@@ -136,7 +187,10 @@
         "isIndividual": true
     },
     {
-        "date": "01-24",
+        "date": {
+            "month": 1,
+            "day": 24
+        },
         "name": "Timothée",
         "sex": "M",
         "shortName": "",
@@ -144,7 +198,10 @@
         "isIndividual": true
     },
     {
-        "date": "01-26",
+        "date": {
+            "month": 1,
+            "day": 26
+        },
         "name": "Polycarpe",
         "sex": "M",
         "shortName": "",
@@ -152,7 +209,10 @@
         "isIndividual": true
     },
     {
-        "date": "01-26",
+        "date": {
+            "month": 1,
+            "day": 26
+        },
         "name": "Ausile",
         "sex": "M",
         "shortName": "",
@@ -160,7 +220,10 @@
         "isIndividual": true
     },
     {
-        "date": "01-27",
+        "date": {
+            "month": 1,
+            "day": 27
+        },
         "name": "Jean Chrysostome",
         "sex": "M",
         "shortName": "Jean",
@@ -168,7 +231,10 @@
         "isIndividual": true
     },
     {
-        "date": "01-29",
+        "date": {
+            "month": 1,
+            "day": 29
+        },
         "name": "François de Sales",
         "sex": "M",
         "shortName": "François",
@@ -176,7 +242,10 @@
         "isIndividual": true
     },
     {
-        "date": "01-30",
+        "date": {
+            "month": 1,
+            "day": 30
+        },
         "name": "Martine",
         "sex": "F",
         "shortName": "",
@@ -184,7 +253,10 @@
         "isIndividual": true
     },
     {
-        "date": "01-31",
+        "date": {
+            "month": 1,
+            "day": 31
+        },
         "name": "Jean Bosco",
         "sex": "M",
         "shortName": "Jean",
@@ -192,7 +264,10 @@
         "isIndividual": true
     },
     {
-        "date": "02-01",
+        "date": {
+            "month": 2,
+            "day": 1
+        },
         "name": "Ignace",
         "sex": "M",
         "shortName": "",
@@ -200,7 +275,10 @@
         "isIndividual": true
     },
     {
-        "date": "02-01",
+        "date": {
+            "month": 2,
+            "day": 1
+        },
         "name": "Paul, évêque de Trois-Château",
         "sex": "M",
         "shortName": "Paul",
@@ -208,7 +286,10 @@
         "isIndividual": true
     },
     {
-        "date": "02-02",
+        "date": {
+            "month": 2,
+            "day": 2
+        },
         "name": "Jeanne de Lestonnac",
         "sex": "F",
         "shortName": "Jeanne",
@@ -216,7 +297,10 @@
         "isIndividual": true
     },
     {
-        "date": "02-04",
+        "date": {
+            "month": 2,
+            "day": 4
+        },
         "name": "André Corsini",
         "sex": "M",
         "shortName": "André",
@@ -224,7 +308,10 @@
         "isIndividual": true
     },
     {
-        "date": "02-04",
+        "date": {
+            "month": 2,
+            "day": 4
+        },
         "name": "Jeanne de France",
         "sex": "F",
         "shortName": "Jeanne",
@@ -232,7 +319,10 @@
         "isIndividual": true
     },
     {
-        "date": "02-05",
+        "date": {
+            "month": 2,
+            "day": 5
+        },
         "name": "Agathe",
         "sex": "F",
         "shortName": "",
@@ -240,7 +330,10 @@
         "isIndividual": true
     },
     {
-        "date": "02-05",
+        "date": {
+            "month": 2,
+            "day": 5
+        },
         "name": "Avit",
         "sex": "M",
         "shortName": "",
@@ -248,7 +341,10 @@
         "isIndividual": true
     },
     {
-        "date": "02-06",
+        "date": {
+            "month": 2,
+            "day": 6
+        },
         "name": "Tite",
         "sex": "M",
         "shortName": "",
@@ -256,7 +352,10 @@
         "isIndividual": true
     },
     {
-        "date": "02-07",
+        "date": {
+            "month": 2,
+            "day": 7
+        },
         "name": "Romuald",
         "sex": "M",
         "shortName": "",
@@ -264,7 +363,10 @@
         "isIndividual": true
     },
     {
-        "date": "02-08",
+        "date": {
+            "month": 2,
+            "day": 8
+        },
         "name": "Paul de Metz",
         "sex": "M",
         "shortName": "Paul",
@@ -272,7 +374,10 @@
         "isIndividual": true
     },
     {
-        "date": "02-09",
+        "date": {
+            "month": 2,
+            "day": 9
+        },
         "name": "Cyrille d'Alexandrie",
         "sex": "M",
         "shortName": "Cyrille",
@@ -280,7 +385,10 @@
         "isIndividual": true
     },
     {
-        "date": "02-10",
+        "date": {
+            "month": 2,
+            "day": 10
+        },
         "name": "Scholastique",
         "sex": "F",
         "shortName": "",
@@ -288,7 +396,10 @@
         "isIndividual": true
     },
     {
-        "date": "02-14",
+        "date": {
+            "month": 2,
+            "day": 14
+        },
         "name": "Valentin",
         "sex": "M",
         "shortName": "",
@@ -296,7 +407,10 @@
         "isIndividual": true
     },
     {
-        "date": "02-15",
+        "date": {
+            "month": 2,
+            "day": 15
+        },
         "name": "Quinide Lérinien",
         "sex": "M",
         "shortName": "Quinide",
@@ -304,7 +418,10 @@
         "isIndividual": true
     },
     {
-        "date": "02-16",
+        "date": {
+            "month": 2,
+            "day": 16
+        },
         "name": "Armentaire",
         "sex": "M",
         "shortName": "",
@@ -312,7 +429,10 @@
         "isIndividual": true
     },
     {
-        "date": "02-18",
+        "date": {
+            "month": 2,
+            "day": 18
+        },
         "name": "Bernadette",
         "sex": "F",
         "shortName": "",
@@ -320,7 +440,10 @@
         "isIndividual": true
     },
     {
-        "date": "02-21",
+        "date": {
+            "month": 2,
+            "day": 21
+        },
         "name": "Bienheureux Hugues de Barjols",
         "sex": "M",
         "shortName": "Bienheureux",
@@ -328,7 +451,10 @@
         "isIndividual": true
     },
     {
-        "date": "02-24",
+        "date": {
+            "month": 2,
+            "day": 24
+        },
         "name": "Mathias, Apôtre",
         "sex": "M",
         "shortName": "Mathias",
@@ -336,7 +462,10 @@
         "isIndividual": true
     },
     {
-        "date": "02-28",
+        "date": {
+            "month": 2,
+            "day": 28
+        },
         "name": "Romain de Condat",
         "sex": "M",
         "shortName": "Romain",
@@ -344,15 +473,21 @@
         "isIndividual": true
     },
     {
-        "date": "03-04",
+        "date": {
+            "month": 3,
+            "day": 4
+        },
         "name": "Le Bienheureux Humbert III",
-        "sex": "",
+        "sex": "M",
         "shortName": "Humbert III",
         "state": "BH",
         "isIndividual": true
     },
     {
-        "date": "03-05",
+        "date": {
+            "month": 3,
+            "day": 5
+        },
         "name": "Virgile",
         "sex": "M",
         "shortName": "",
@@ -360,7 +495,10 @@
         "isIndividual": true
     },
     {
-        "date": "03-07",
+        "date": {
+            "month": 3,
+            "day": 7
+        },
         "name": "Thomas D'Aquin",
         "sex": "M",
         "shortName": "Thomas",
@@ -368,7 +506,10 @@
         "isIndividual": true
     },
     {
-        "date": "03-09",
+        "date": {
+            "month": 3,
+            "day": 9
+        },
         "name": "Catherine de Bologne",
         "sex": "F",
         "shortName": "Catherine",
@@ -376,7 +517,10 @@
         "isIndividual": true
     },
     {
-        "date": "03-12",
+        "date": {
+            "month": 3,
+            "day": 12
+        },
         "name": "Grégoire le Grand",
         "sex": "M",
         "shortName": "Grégoire",
@@ -384,7 +528,10 @@
         "isIndividual": true
     },
     {
-        "date": "03-14",
+        "date": {
+            "month": 3,
+            "day": 14
+        },
         "name": "Euperge",
         "sex": "M",
         "shortName": "",
@@ -392,7 +539,10 @@
         "isIndividual": true
     },
     {
-        "date": "03-15",
+        "date": {
+            "month": 3,
+            "day": 15
+        },
         "name": "Longin",
         "sex": "M",
         "shortName": "",
@@ -400,7 +550,10 @@
         "isIndividual": true
     },
     {
-        "date": "03-19",
+        "date": {
+            "month": 3,
+            "day": 19
+        },
         "name": "Joseph",
         "sex": "M",
         "shortName": "",
@@ -408,7 +561,10 @@
         "isIndividual": true
     },
     {
-        "date": "03-27",
+        "date": {
+            "month": 3,
+            "day": 27
+        },
         "name": "Jean Damascène",
         "sex": "M",
         "shortName": "Jean",
@@ -416,7 +572,10 @@
         "isIndividual": true
     },
     {
-        "date": "03-28",
+        "date": {
+            "month": 3,
+            "day": 28
+        },
         "name": "Gontran",
         "sex": "M",
         "shortName": "",
@@ -424,7 +583,10 @@
         "isIndividual": true
     },
     {
-        "date": "03-28",
+        "date": {
+            "month": 3,
+            "day": 28
+        },
         "name": "Jean de Capistran",
         "sex": "M",
         "shortName": "Jean",
@@ -432,7 +594,10 @@
         "isIndividual": true
     },
     {
-        "date": "04-02",
+        "date": {
+            "month": 4,
+            "day": 2
+        },
         "name": "François de Paule",
         "sex": "M",
         "shortName": "François",
@@ -440,7 +605,10 @@
         "isIndividual": true
     },
     {
-        "date": "04-05",
+        "date": {
+            "month": 4,
+            "day": 5
+        },
         "name": "Vincent Ferrier",
         "sex": "M",
         "shortName": "Vincent",
@@ -448,7 +616,10 @@
         "isIndividual": true
     },
     {
-        "date": "04-09",
+        "date": {
+            "month": 4,
+            "day": 9
+        },
         "name": "Marcel",
         "sex": "M",
         "shortName": "",
@@ -456,7 +627,10 @@
         "isIndividual": true
     },
     {
-        "date": "04-11",
+        "date": {
+            "month": 4,
+            "day": 11
+        },
         "name": "Léon Le Grand, Pape",
         "sex": "M",
         "shortName": "Léon",
@@ -464,7 +638,10 @@
         "isIndividual": true
     },
     {
-        "date": "04-13",
+        "date": {
+            "month": 4,
+            "day": 13
+        },
         "name": "Herménégilde",
         "sex": "M",
         "shortName": "",
@@ -472,7 +649,10 @@
         "isIndividual": true
     },
     {
-        "date": "04-16",
+        "date": {
+            "month": 4,
+            "day": 16
+        },
         "name": "Benoît-Joseph Labre",
         "sex": "M",
         "shortName": "Benoît-Joseph",
@@ -480,7 +660,10 @@
         "isIndividual": true
     },
     {
-        "date": "04-22",
+        "date": {
+            "month": 4,
+            "day": 22
+        },
         "name": "Soter et Caïus",
         "sex": "M",
         "shortName": "",
@@ -488,7 +671,10 @@
         "isIndividual": false
     },
     {
-        "date": "04-23",
+        "date": {
+            "month": 4,
+            "day": 23
+        },
         "name": "Georges",
         "sex": "M",
         "shortName": "",
@@ -496,7 +682,10 @@
         "isIndividual": true
     },
     {
-        "date": "04-24",
+        "date": {
+            "month": 4,
+            "day": 24
+        },
         "name": "Fidèle de Sigmaringen",
         "sex": "M",
         "shortName": "Fidèle",
@@ -504,7 +693,10 @@
         "isIndividual": true
     },
     {
-        "date": "04-25",
+        "date": {
+            "month": 4,
+            "day": 25
+        },
         "name": "Marc, Évangéliste",
         "sex": "M",
         "shortName": "Marc",
@@ -512,7 +704,10 @@
         "isIndividual": true
     },
     {
-        "date": "04-26",
+        "date": {
+            "month": 4,
+            "day": 26
+        },
         "name": "Clet et Marcellin",
         "sex": "M",
         "shortName": "",
@@ -520,7 +715,10 @@
         "isIndividual": false
     },
     {
-        "date": "04-27",
+        "date": {
+            "month": 4,
+            "day": 27
+        },
         "name": "Zita",
         "sex": "F",
         "shortName": "",
@@ -528,7 +726,10 @@
         "isIndividual": true
     },
     {
-        "date": "04-27",
+        "date": {
+            "month": 4,
+            "day": 27
+        },
         "name": "Pierre Canisius",
         "sex": "M",
         "shortName": "Pierre",
@@ -536,7 +737,10 @@
         "isIndividual": true
     },
     {
-        "date": "04-29",
+        "date": {
+            "month": 4,
+            "day": 29
+        },
         "name": "Pierre de Vérone",
         "sex": "M",
         "shortName": "Pierre",
@@ -544,7 +748,10 @@
         "isIndividual": true
     },
     {
-        "date": "04-30",
+        "date": {
+            "month": 4,
+            "day": 30
+        },
         "name": "Catherine de Sienne",
         "sex": "F",
         "shortName": "Catherine",
@@ -552,15 +759,21 @@
         "isIndividual": true
     },
     {
-        "date": "04-30",
+        "date": {
+            "month": 4,
+            "day": 30
+        },
         "name": "Bienheureuse Hildegarde de Vintzgau",
-        "sex": "",
+        "sex": "F",
         "shortName": "Bienheureuse",
         "state": "BH",
         "isIndividual": true
     },
     {
-        "date": "05-01",
+        "date": {
+            "month": 5,
+            "day": 1
+        },
         "name": "Joseph Artisan",
         "sex": "M",
         "shortName": "Joseph",
@@ -568,7 +781,10 @@
         "isIndividual": true
     },
     {
-        "date": "05-02",
+        "date": {
+            "month": 5,
+            "day": 2
+        },
         "name": "Athanase (Patriarche d’Alexandrie et Docteur)",
         "sex": "M",
         "shortName": "Athanase",
@@ -576,7 +792,10 @@
         "isIndividual": true
     },
     {
-        "date": "05-04",
+        "date": {
+            "month": 5,
+            "day": 4
+        },
         "name": "Monique Veuve",
         "sex": "F",
         "shortName": "Monique",
@@ -584,7 +803,10 @@
         "isIndividual": true
     },
     {
-        "date": "05-05",
+        "date": {
+            "month": 5,
+            "day": 5
+        },
         "name": "Pie V",
         "sex": "M",
         "shortName": "",
@@ -592,7 +814,10 @@
         "isIndividual": true
     },
     {
-        "date": "05-06",
+        "date": {
+            "month": 5,
+            "day": 6
+        },
         "name": "Jean Devant La Porte Latine",
         "sex": "M",
         "shortName": "Jean",
@@ -600,7 +825,10 @@
         "isIndividual": true
     },
     {
-        "date": "05-07",
+        "date": {
+            "month": 5,
+            "day": 7
+        },
         "name": "Stanislas de Cracovie",
         "sex": "M",
         "shortName": "Stanislas",
@@ -608,7 +836,10 @@
         "isIndividual": true
     },
     {
-        "date": "05-10",
+        "date": {
+            "month": 5,
+            "day": 10
+        },
         "name": "Isidore Le Laboureur",
         "sex": "M",
         "shortName": "Isidore",
@@ -616,7 +847,10 @@
         "isIndividual": true
     },
     {
-        "date": "05-11",
+        "date": {
+            "month": 5,
+            "day": 11
+        },
         "name": "Philippe, Apôtres",
         "sex": "M",
         "shortName": "Philippe",
@@ -624,7 +858,10 @@
         "isIndividual": true
     },
     {
-        "date": "05-11",
+        "date": {
+            "month": 5,
+            "day": 11
+        },
         "name": "Jacques, Apôtre",
         "sex": "M",
         "shortName": "Jacques",
@@ -632,7 +869,10 @@
         "isIndividual": true
     },
     {
-        "date": "05-13",
+        "date": {
+            "month": 5,
+            "day": 13
+        },
         "name": "Robert Bellarmin",
         "sex": "M",
         "shortName": "Robert",
@@ -640,7 +880,10 @@
         "isIndividual": true
     },
     {
-        "date": "05-15",
+        "date": {
+            "month": 5,
+            "day": 15
+        },
         "name": "Jean-Baptiste de la Salle",
         "sex": "M",
         "shortName": "Jean-Baptiste",
@@ -648,7 +891,10 @@
         "isIndividual": true
     },
     {
-        "date": "05-16",
+        "date": {
+            "month": 5,
+            "day": 16
+        },
         "name": "Jean Népomucène",
         "sex": "M",
         "shortName": "Jean",
@@ -656,7 +902,10 @@
         "isIndividual": true
     },
     {
-        "date": "05-17",
+        "date": {
+            "month": 5,
+            "day": 17
+        },
         "name": "Tropez",
         "sex": "M",
         "shortName": "",
@@ -664,7 +913,10 @@
         "isIndividual": true
     },
     {
-        "date": "05-21",
+        "date": {
+            "month": 5,
+            "day": 21
+        },
         "name": "Thibaud",
         "sex": "M",
         "shortName": "",
@@ -672,7 +924,10 @@
         "isIndividual": true
     },
     {
-        "date": "05-22",
+        "date": {
+            "month": 5,
+            "day": 22
+        },
         "name": "Rita de Cascia",
         "sex": "F",
         "shortName": "Rita",
@@ -680,7 +935,10 @@
         "isIndividual": true
     },
     {
-        "date": "05-24",
+        "date": {
+            "month": 5,
+            "day": 24
+        },
         "name": "Vincent de Lérins",
         "sex": "M",
         "shortName": "Vincent",
@@ -688,7 +946,10 @@
         "isIndividual": true
     },
     {
-        "date": "05-26",
+        "date": {
+            "month": 5,
+            "day": 26
+        },
         "name": "Lambert de Vence",
         "sex": "M",
         "shortName": "Lambert",
@@ -696,7 +957,10 @@
         "isIndividual": true
     },
     {
-        "date": "05-27",
+        "date": {
+            "month": 5,
+            "day": 27
+        },
         "name": "Bède le Vénérable",
         "sex": "M",
         "shortName": "Bède",
@@ -704,7 +968,10 @@
         "isIndividual": true
     },
     {
-        "date": "05-28",
+        "date": {
+            "month": 5,
+            "day": 28
+        },
         "name": "Germain",
         "sex": "M",
         "shortName": "",
@@ -712,7 +979,10 @@
         "isIndividual": true
     },
     {
-        "date": "05-29",
+        "date": {
+            "month": 5,
+            "day": 29
+        },
         "name": "Marie-Madeleine de Pazzi",
         "sex": "F",
         "shortName": "Marie-Madeleine",
@@ -720,7 +990,10 @@
         "isIndividual": true
     },
     {
-        "date": "05-30",
+        "date": {
+            "month": 5,
+            "day": 30
+        },
         "name": "Jeanne d'Arc",
         "sex": "F",
         "shortName": "Jeanne",
@@ -728,7 +1001,10 @@
         "isIndividual": true
     },
     {
-        "date": "05-31",
+        "date": {
+            "month": 5,
+            "day": 31
+        },
         "name": "Pétronille",
         "sex": "F",
         "shortName": "",
@@ -736,7 +1012,10 @@
         "isIndividual": true
     },
     {
-        "date": "06-01",
+        "date": {
+            "month": 6,
+            "day": 1
+        },
         "name": "Angèle de Merici",
         "sex": "F",
         "shortName": "Angèle",
@@ -744,7 +1023,10 @@
         "isIndividual": true
     },
     {
-        "date": "06-03",
+        "date": {
+            "month": 6,
+            "day": 3
+        },
         "name": "Clotilde",
         "sex": "F",
         "shortName": "",
@@ -752,7 +1034,10 @@
         "isIndividual": true
     },
     {
-        "date": "06-04",
+        "date": {
+            "month": 6,
+            "day": 4
+        },
         "name": "François de Caracciolo",
         "sex": "M",
         "shortName": "François",
@@ -760,7 +1045,10 @@
         "isIndividual": true
     },
     {
-        "date": "06-05",
+        "date": {
+            "month": 6,
+            "day": 5
+        },
         "name": "Boniface",
         "sex": "M",
         "shortName": "",
@@ -768,7 +1056,10 @@
         "isIndividual": true
     },
     {
-        "date": "06-06",
+        "date": {
+            "month": 6,
+            "day": 6
+        },
         "name": "Norbert",
         "sex": "M",
         "shortName": "",
@@ -776,7 +1067,10 @@
         "isIndividual": true
     },
     {
-        "date": "06-10",
+        "date": {
+            "month": 6,
+            "day": 10
+        },
         "name": "Margueritte d'Ecosse",
         "sex": "F",
         "shortName": "Margueritte",
@@ -784,7 +1078,10 @@
         "isIndividual": true
     },
     {
-        "date": "06-11",
+        "date": {
+            "month": 6,
+            "day": 11
+        },
         "name": "Barnabé",
         "sex": "M",
         "shortName": "",
@@ -792,7 +1089,10 @@
         "isIndividual": true
     },
     {
-        "date": "06-12",
+        "date": {
+            "month": 6,
+            "day": 12
+        },
         "name": "Jean de Saint-Facond",
         "sex": "M",
         "shortName": "Jean",
@@ -800,7 +1100,10 @@
         "isIndividual": true
     },
     {
-        "date": "06-13",
+        "date": {
+            "month": 6,
+            "day": 13
+        },
         "name": "Antoine de Padoue",
         "sex": "M",
         "shortName": "Antoine",
@@ -808,7 +1111,10 @@
         "isIndividual": true
     },
     {
-        "date": "06-14",
+        "date": {
+            "month": 6,
+            "day": 14
+        },
         "name": "Basile le Grand",
         "sex": "M",
         "shortName": "Basile",
@@ -816,7 +1122,10 @@
         "isIndividual": true
     },
     {
-        "date": "06-17",
+        "date": {
+            "month": 6,
+            "day": 17
+        },
         "name": "Grégoire Barbarigo",
         "sex": "M",
         "shortName": "Grégoire",
@@ -824,7 +1133,10 @@
         "isIndividual": true
     },
     {
-        "date": "06-18",
+        "date": {
+            "month": 6,
+            "day": 18
+        },
         "name": "Ephrem",
         "sex": "M",
         "shortName": "",
@@ -832,7 +1144,10 @@
         "isIndividual": true
     },
     {
-        "date": "06-19",
+        "date": {
+            "month": 6,
+            "day": 19
+        },
         "name": "Julienne Falconieri",
         "sex": "F",
         "shortName": "Julienne",
@@ -840,7 +1155,10 @@
         "isIndividual": true
     },
     {
-        "date": "06-21",
+        "date": {
+            "month": 6,
+            "day": 21
+        },
         "name": "Louis de Gonzague",
         "sex": "M",
         "shortName": "Louis",
@@ -848,7 +1166,10 @@
         "isIndividual": true
     },
     {
-        "date": "06-22",
+        "date": {
+            "month": 6,
+            "day": 22
+        },
         "name": "Paulin",
         "sex": "M",
         "shortName": "",
@@ -856,15 +1177,21 @@
         "isIndividual": true
     },
     {
-        "date": "06-24",
+        "date": {
+            "month": 6,
+            "day": 24
+        },
         "name": "Nativité de Saint Jean Baptiste",
-        "sex": "",
+        "sex": "M",
         "shortName": "Jean-Baptiste",
         "state": "ST",
         "isIndividual": true
     },
     {
-        "date": "06-25",
+        "date": {
+            "month": 6,
+            "day": 25
+        },
         "name": "Guillaume",
         "sex": "M",
         "shortName": "",
@@ -872,7 +1199,10 @@
         "isIndividual": true
     },
     {
-        "date": "06-26",
+        "date": {
+            "month": 6,
+            "day": 26
+        },
         "name": "Jean et Paul",
         "sex": "M",
         "shortName": "",
@@ -880,7 +1210,10 @@
         "isIndividual": false
     },
     {
-        "date": "06-29",
+        "date": {
+            "month": 6,
+            "day": 29
+        },
         "name": "Les Saints Apôtres Pierre et Paul",
         "sex": "M",
         "shortName": "Pierre et Paul",
@@ -888,7 +1221,10 @@
         "isIndividual": false
     },
     {
-        "date": "07-03",
+        "date": {
+            "month": 7,
+            "day": 3
+        },
         "name": "Irénée",
         "sex": "M",
         "shortName": "",
@@ -896,7 +1232,10 @@
         "isIndividual": true
     },
     {
-        "date": "07-05",
+        "date": {
+            "month": 7,
+            "day": 5
+        },
         "name": "Antoine-Marie Zacarria",
         "sex": "M",
         "shortName": "Antoine-Marie",
@@ -904,7 +1243,10 @@
         "isIndividual": true
     },
     {
-        "date": "07-08",
+        "date": {
+            "month": 7,
+            "day": 8
+        },
         "name": "Elisabeth du Portugal",
         "sex": "F",
         "shortName": "Elisabeth",
@@ -912,7 +1254,10 @@
         "isIndividual": true
     },
     {
-        "date": "07-12",
+        "date": {
+            "month": 7,
+            "day": 12
+        },
         "name": "Jean Gualbert",
         "sex": "M",
         "shortName": "Jean",
@@ -920,7 +1265,10 @@
         "isIndividual": true
     },
     {
-        "date": "07-15",
+        "date": {
+            "month": 7,
+            "day": 15
+        },
         "name": "Henri, Empereur et Confesseur",
         "sex": "M",
         "shortName": "Henri",
@@ -928,7 +1276,10 @@
         "isIndividual": true
     },
     {
-        "date": "07-18",
+        "date": {
+            "month": 7,
+            "day": 18
+        },
         "name": "Camille de Lellis",
         "sex": "M",
         "shortName": "Camille",
@@ -936,7 +1287,10 @@
         "isIndividual": true
     },
     {
-        "date": "07-19",
+        "date": {
+            "month": 7,
+            "day": 19
+        },
         "name": "Vincent de Paul",
         "sex": "M",
         "shortName": "Vincent",
@@ -944,7 +1298,10 @@
         "isIndividual": true
     },
     {
-        "date": "07-20",
+        "date": {
+            "month": 7,
+            "day": 20
+        },
         "name": "Jérome Émilien",
         "sex": "M",
         "shortName": "Jérome",
@@ -952,7 +1309,10 @@
         "isIndividual": true
     },
     {
-        "date": "07-22",
+        "date": {
+            "month": 7,
+            "day": 22
+        },
         "name": "Marie-Madeleine",
         "sex": "F",
         "shortName": "",
@@ -960,7 +1320,10 @@
         "isIndividual": true
     },
     {
-        "date": "07-23",
+        "date": {
+            "month": 7,
+            "day": 23
+        },
         "name": "Apollinaire",
         "sex": "M",
         "shortName": "",
@@ -968,7 +1331,10 @@
         "isIndividual": true
     },
     {
-        "date": "07-24",
+        "date": {
+            "month": 7,
+            "day": 24
+        },
         "name": "Christine",
         "sex": "F",
         "shortName": "",
@@ -976,7 +1342,10 @@
         "isIndividual": true
     },
     {
-        "date": "07-25",
+        "date": {
+            "month": 7,
+            "day": 25
+        },
         "name": "Jacques, Apôtre",
         "sex": "M",
         "shortName": "Jacques",
@@ -984,7 +1353,10 @@
         "isIndividual": true
     },
     {
-        "date": "07-26",
+        "date": {
+            "month": 7,
+            "day": 26
+        },
         "name": "Anne, Mère de la Sainte Vierge",
         "sex": "F",
         "shortName": "Anne",
@@ -992,7 +1364,10 @@
         "isIndividual": true
     },
     {
-        "date": "07-29",
+        "date": {
+            "month": 7,
+            "day": 29
+        },
         "name": "Marthe",
         "sex": "F",
         "shortName": "",
@@ -1000,7 +1375,10 @@
         "isIndividual": true
     },
     {
-        "date": "07-30",
+        "date": {
+            "month": 7,
+            "day": 30
+        },
         "name": "Juliette",
         "sex": "F",
         "shortName": "",
@@ -1008,7 +1386,10 @@
         "isIndividual": true
     },
     {
-        "date": "07-31",
+        "date": {
+            "month": 7,
+            "day": 31
+        },
         "name": "Ignace de Loyola",
         "sex": "M",
         "shortName": "Ignace",
@@ -1016,7 +1397,10 @@
         "isIndividual": true
     },
     {
-        "date": "08-02",
+        "date": {
+            "month": 8,
+            "day": 2
+        },
         "name": "Alphonse-Marie de Liguori",
         "sex": "M",
         "shortName": "Alphonse-Marie",
@@ -1024,7 +1408,10 @@
         "isIndividual": true
     },
     {
-        "date": "08-07",
+        "date": {
+            "month": 8,
+            "day": 7
+        },
         "name": "Gaétan",
         "sex": "M",
         "shortName": "",
@@ -1032,7 +1419,10 @@
         "isIndividual": true
     },
     {
-        "date": "08-08",
+        "date": {
+            "month": 8,
+            "day": 8
+        },
         "name": "Jean-Marie Vianney",
         "sex": "M",
         "shortName": "Curé d'Ars",
@@ -1040,7 +1430,10 @@
         "isIndividual": true
     },
     {
-        "date": "08-10",
+        "date": {
+            "month": 8,
+            "day": 10
+        },
         "name": "Laurent",
         "sex": "M",
         "shortName": "",
@@ -1048,7 +1441,10 @@
         "isIndividual": true
     },
     {
-        "date": "08-11",
+        "date": {
+            "month": 8,
+            "day": 11
+        },
         "name": "Claire d'Assise",
         "sex": "F",
         "shortName": "Claire",
@@ -1056,15 +1452,10 @@
         "isIndividual": true
     },
     {
-        "date": "08-15",
-        "name": "Assomption de la Très Sainte Vierge Marie, Patronne Principale de la France",
-        "sex": "",
-        "shortName": "Assomption",
-        "state": "ST",
-        "isIndividual": true
-    },
-    {
-        "date": "08-16",
+        "date": {
+            "month": 8,
+            "day": 16
+        },
         "name": "Joachim, Père de la Sainte VIerge",
         "sex": "M",
         "shortName": "Joachim",
@@ -1072,7 +1463,10 @@
         "isIndividual": true
     },
     {
-        "date": "08-17",
+        "date": {
+            "month": 8,
+            "day": 17
+        },
         "name": "Hyacinthe",
         "sex": "M",
         "shortName": "",
@@ -1080,7 +1474,10 @@
         "isIndividual": true
     },
     {
-        "date": "08-19",
+        "date": {
+            "month": 8,
+            "day": 19
+        },
         "name": "Jean Eudes",
         "sex": "M",
         "shortName": "Jean",
@@ -1088,7 +1485,10 @@
         "isIndividual": true
     },
     {
-        "date": "08-20",
+        "date": {
+            "month": 8,
+            "day": 20
+        },
         "name": "Bernard",
         "sex": "M",
         "shortName": "",
@@ -1096,7 +1496,10 @@
         "isIndividual": true
     },
     {
-        "date": "08-21",
+        "date": {
+            "month": 8,
+            "day": 21
+        },
         "name": "Jeanne-Françoise de Frémiot",
         "sex": "F",
         "shortName": "Jeanne-Françoise",
@@ -1104,15 +1507,10 @@
         "isIndividual": true
     },
     {
-        "date": "08-22",
-        "name": "Fête du Coeur Immaculée de Marie",
-        "sex": "",
-        "shortName": "Fête",
-        "state": "ST",
-        "isIndividual": true
-    },
-    {
-        "date": "08-23",
+        "date": {
+            "month": 8,
+            "day": 23
+        },
         "name": "Philippe Béniti",
         "sex": "M",
         "shortName": "Philippe",
@@ -1120,7 +1518,10 @@
         "isIndividual": true
     },
     {
-        "date": "08-24",
+        "date": {
+            "month": 8,
+            "day": 24
+        },
         "name": "Barthélemy",
         "sex": "M",
         "shortName": "",
@@ -1128,7 +1529,10 @@
         "isIndividual": true
     },
     {
-        "date": "08-27",
+        "date": {
+            "month": 8,
+            "day": 27
+        },
         "name": "Joseph Calasanz",
         "sex": "M",
         "shortName": "Joseph",
@@ -1136,7 +1540,10 @@
         "isIndividual": true
     },
     {
-        "date": "08-28",
+        "date": {
+            "month": 8,
+            "day": 28
+        },
         "name": "Augustin",
         "sex": "M",
         "shortName": "",
@@ -1144,15 +1551,21 @@
         "isIndividual": true
     },
     {
-        "date": "08-29",
+        "date": {
+            "month": 8,
+            "day": 29
+        },
         "name": "Décapitation de Saint Jean-Baptise",
-        "sex": "",
+        "sex": "M",
         "shortName": "Décapitation",
         "state": "ST",
         "isIndividual": true
     },
     {
-        "date": "08-30",
+        "date": {
+            "month": 8,
+            "day": 30
+        },
         "name": "Rose de Lima",
         "sex": "F",
         "shortName": "Rose",
@@ -1160,7 +1573,10 @@
         "isIndividual": true
     },
     {
-        "date": "08-31",
+        "date": {
+            "month": 8,
+            "day": 31
+        },
         "name": "Raymond Nonna",
         "sex": "M",
         "shortName": "Raymond",
@@ -1168,7 +1584,10 @@
         "isIndividual": true
     },
     {
-        "date": "10-23",
+        "date": {
+            "month": 10,
+            "day": 23
+        },
         "name": "Antoine-Marie",
         "sex": "M",
         "shortName": "",
@@ -1176,7 +1595,10 @@
         "isIndividual": true
     },
     {
-        "date": "11-25",
+        "date": {
+            "month": 11,
+            "day": 25
+        },
         "name": "Catherine d’Alexandrie",
         "sex": "F",
         "shortName": "Catherine",
@@ -1184,7 +1606,10 @@
         "isIndividual": true
     },
     {
-        "date": "12-02",
+        "date": {
+            "month": 12,
+            "day": 2
+        },
         "name": "Bibiane",
         "sex": "F",
         "shortName": "",
@@ -1192,7 +1617,10 @@
         "isIndividual": true
     },
     {
-        "date": "12-04",
+        "date": {
+            "month": 12,
+            "day": 4
+        },
         "name": "Chrysologue",
         "sex": "M",
         "shortName": "",
@@ -1200,7 +1628,10 @@
         "isIndividual": true
     },
     {
-        "date": "12-06",
+        "date": {
+            "month": 12,
+            "day": 6
+        },
         "name": "Nicolas",
         "sex": "M",
         "shortName": "",
@@ -1208,7 +1639,10 @@
         "isIndividual": true
     },
     {
-        "date": "12-07",
+        "date": {
+            "month": 12,
+            "day": 7
+        },
         "name": "Ambroise",
         "sex": "M",
         "shortName": "",
@@ -1216,15 +1650,21 @@
         "isIndividual": true
     },
     {
-        "date": "12-08",
+        "date": {
+            "month": 12,
+            "day": 8
+        },
         "name": "Fête de l'Immaculée Conception",
-        "sex": "",
+        "sex": "M",
         "shortName": "Immaculée Conception",
         "state": "ST",
         "isIndividual": true
     },
     {
-        "date": "12-11",
+        "date": {
+            "month": 12,
+            "day": 11
+        },
         "name": "Damase",
         "sex": "M",
         "shortName": "",
@@ -1232,7 +1672,10 @@
         "isIndividual": true
     },
     {
-        "date": "12-13",
+        "date": {
+            "month": 12,
+            "day": 13
+        },
         "name": "Lucie",
         "sex": "F",
         "shortName": "",
@@ -1240,7 +1683,10 @@
         "isIndividual": true
     },
     {
-        "date": "12-16",
+        "date": {
+            "month": 12,
+            "day": 16
+        },
         "name": "Eusèbe",
         "sex": "M",
         "shortName": "",
@@ -1248,7 +1694,10 @@
         "isIndividual": true
     },
     {
-        "date": "12-17",
+        "date": {
+            "month": 12,
+            "day": 17
+        },
         "name": "Jean de Matha",
         "sex": "M",
         "shortName": "Jean",
@@ -1256,7 +1705,10 @@
         "isIndividual": true
     },
     {
-        "date": "12-21",
+        "date": {
+            "month": 12,
+            "day": 21
+        },
         "name": "Thomas, Apôtre",
         "sex": "M",
         "shortName": "Thomas",
@@ -1264,7 +1716,10 @@
         "isIndividual": true
     },
     {
-        "date": "12-26",
+        "date": {
+            "month": 12,
+            "day": 26
+        },
         "name": "Etienne",
         "sex": "M",
         "shortName": "",
@@ -1272,7 +1727,10 @@
         "isIndividual": true
     },
     {
-        "date": "12-27",
+        "date": {
+            "month": 12,
+            "day": 27
+        },
         "name": "Jean, Apôtre et Évangéliste",
         "sex": "M",
         "shortName": "Jean",
@@ -1280,10 +1738,13 @@
         "isIndividual": true
     },
     {
-        "date": "12-28",
+        "date": {
+            "month": 12,
+            "day": 28
+        },
         "name": "Les Saint Innocents",
-        "sex": "",
-        "shortName": "Les",
+        "sex": "M",
+        "shortName": "",
         "state": "ST",
         "isIndividual": false
     }
