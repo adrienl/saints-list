@@ -1,0 +1,1290 @@
+[
+    {
+        "date": "01-03",
+        "name": "Geneviève",
+        "sex": "F",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "01-04",
+        "name": "Angèle de Foligno",
+        "sex": "F",
+        "shortName": "Angèle",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "01-08",
+        "name": "Gudule",
+        "sex": "F",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "01-09",
+        "name": "Alix Le Clerc",
+        "sex": "F",
+        "shortName": "Alix",
+        "state": "BH",
+        "isIndividual": true
+    },
+    {
+        "date": "01-10",
+        "name": "Guillaume",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "01-14",
+        "name": "Hilaire de Poitiers",
+        "sex": "M",
+        "shortName": "Hilaire",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "01-15",
+        "name": "Bonnet, Evêque de Clermont",
+        "sex": "M",
+        "shortName": "Bonnet",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "01-15",
+        "name": "Paul, Ermite",
+        "sex": "M",
+        "shortName": "Paul",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "01-16",
+        "name": "Marcel Ier, Pape et Martyr",
+        "sex": "M",
+        "shortName": "Marcel",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "01-16",
+        "name": "Honorat",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "01-16",
+        "name": "Blaise",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "01-17",
+        "name": "Antoine du désert",
+        "sex": "M",
+        "shortName": "Antoine",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "01-20",
+        "name": "Fabien",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "01-20",
+        "name": "Sébastien",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "01-21",
+        "name": "Agnès",
+        "sex": "F",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "01-22",
+        "name": "Vincent",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "01-22",
+        "name": "Anastase",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "01-24",
+        "name": "Timothée",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "01-26",
+        "name": "Polycarpe",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "01-26",
+        "name": "Ausile",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "01-27",
+        "name": "Jean Chrysostome",
+        "sex": "M",
+        "shortName": "Jean",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "01-29",
+        "name": "François de Sales",
+        "sex": "M",
+        "shortName": "François",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "01-30",
+        "name": "Martine",
+        "sex": "F",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "01-31",
+        "name": "Jean Bosco",
+        "sex": "M",
+        "shortName": "Jean",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "02-01",
+        "name": "Ignace",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "02-01",
+        "name": "Paul, évêque de Trois-Château",
+        "sex": "M",
+        "shortName": "Paul",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "02-02",
+        "name": "Jeanne de Lestonnac",
+        "sex": "F",
+        "shortName": "Jeanne",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "02-04",
+        "name": "André Corsini",
+        "sex": "M",
+        "shortName": "André",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "02-04",
+        "name": "Jeanne de France",
+        "sex": "F",
+        "shortName": "Jeanne",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "02-05",
+        "name": "Agathe",
+        "sex": "F",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "02-05",
+        "name": "Avit",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "02-06",
+        "name": "Tite",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "02-07",
+        "name": "Romuald",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "02-08",
+        "name": "Paul de Metz",
+        "sex": "M",
+        "shortName": "Paul",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "02-09",
+        "name": "Cyrille d'Alexandrie",
+        "sex": "M",
+        "shortName": "Cyrille",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "02-10",
+        "name": "Scholastique",
+        "sex": "F",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "02-14",
+        "name": "Valentin",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "02-15",
+        "name": "Quinide Lérinien",
+        "sex": "M",
+        "shortName": "Quinide",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "02-16",
+        "name": "Armentaire",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "02-18",
+        "name": "Bernadette",
+        "sex": "F",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "02-21",
+        "name": "Bienheureux Hugues de Barjols",
+        "sex": "M",
+        "shortName": "Bienheureux",
+        "state": "BH",
+        "isIndividual": true
+    },
+    {
+        "date": "02-24",
+        "name": "Mathias, Apôtre",
+        "sex": "M",
+        "shortName": "Mathias",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "02-28",
+        "name": "Romain de Condat",
+        "sex": "M",
+        "shortName": "Romain",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "03-04",
+        "name": "Le Bienheureux Humbert III",
+        "sex": "",
+        "shortName": "Humbert III",
+        "state": "BH",
+        "isIndividual": true
+    },
+    {
+        "date": "03-05",
+        "name": "Virgile",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "03-07",
+        "name": "Thomas D'Aquin",
+        "sex": "M",
+        "shortName": "Thomas",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "03-09",
+        "name": "Catherine de Bologne",
+        "sex": "F",
+        "shortName": "Catherine",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "03-12",
+        "name": "Grégoire le Grand",
+        "sex": "M",
+        "shortName": "Grégoire",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "03-14",
+        "name": "Euperge",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "03-15",
+        "name": "Longin",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "03-19",
+        "name": "Joseph",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "03-27",
+        "name": "Jean Damascène",
+        "sex": "M",
+        "shortName": "Jean",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "03-28",
+        "name": "Gontran",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "03-28",
+        "name": "Jean de Capistran",
+        "sex": "M",
+        "shortName": "Jean",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "04-02",
+        "name": "François de Paule",
+        "sex": "M",
+        "shortName": "François",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "04-05",
+        "name": "Vincent Ferrier",
+        "sex": "M",
+        "shortName": "Vincent",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "04-09",
+        "name": "Marcel",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "04-11",
+        "name": "Léon Le Grand, Pape",
+        "sex": "M",
+        "shortName": "Léon",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "04-13",
+        "name": "Herménégilde",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "04-16",
+        "name": "Benoît-Joseph Labre",
+        "sex": "M",
+        "shortName": "Benoît-Joseph",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "04-22",
+        "name": "Soter et Caïus",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": false
+    },
+    {
+        "date": "04-23",
+        "name": "Georges",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "04-24",
+        "name": "Fidèle de Sigmaringen",
+        "sex": "M",
+        "shortName": "Fidèle",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "04-25",
+        "name": "Marc, Évangéliste",
+        "sex": "M",
+        "shortName": "Marc",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "04-26",
+        "name": "Clet et Marcellin",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": false
+    },
+    {
+        "date": "04-27",
+        "name": "Zita",
+        "sex": "F",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "04-27",
+        "name": "Pierre Canisius",
+        "sex": "M",
+        "shortName": "Pierre",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "04-29",
+        "name": "Pierre de Vérone",
+        "sex": "M",
+        "shortName": "Pierre",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "04-30",
+        "name": "Catherine de Sienne",
+        "sex": "F",
+        "shortName": "Catherine",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "04-30",
+        "name": "Bienheureuse Hildegarde de Vintzgau",
+        "sex": "",
+        "shortName": "Bienheureuse",
+        "state": "BH",
+        "isIndividual": true
+    },
+    {
+        "date": "05-01",
+        "name": "Joseph Artisan",
+        "sex": "M",
+        "shortName": "Joseph",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "05-02",
+        "name": "Athanase (Patriarche d’Alexandrie et Docteur)",
+        "sex": "M",
+        "shortName": "Athanase",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "05-04",
+        "name": "Monique Veuve",
+        "sex": "F",
+        "shortName": "Monique",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "05-05",
+        "name": "Pie V",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "05-06",
+        "name": "Jean Devant La Porte Latine",
+        "sex": "M",
+        "shortName": "Jean",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "05-07",
+        "name": "Stanislas de Cracovie",
+        "sex": "M",
+        "shortName": "Stanislas",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "05-10",
+        "name": "Isidore Le Laboureur",
+        "sex": "M",
+        "shortName": "Isidore",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "05-11",
+        "name": "Philippe, Apôtres",
+        "sex": "M",
+        "shortName": "Philippe",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "05-11",
+        "name": "Jacques, Apôtre",
+        "sex": "M",
+        "shortName": "Jacques",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "05-13",
+        "name": "Robert Bellarmin",
+        "sex": "M",
+        "shortName": "Robert",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "05-15",
+        "name": "Jean-Baptiste de la Salle",
+        "sex": "M",
+        "shortName": "Jean-Baptiste",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "05-16",
+        "name": "Jean Népomucène",
+        "sex": "M",
+        "shortName": "Jean",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "05-17",
+        "name": "Tropez",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "05-21",
+        "name": "Thibaud",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "05-22",
+        "name": "Rita de Cascia",
+        "sex": "F",
+        "shortName": "Rita",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "05-24",
+        "name": "Vincent de Lérins",
+        "sex": "M",
+        "shortName": "Vincent",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "05-26",
+        "name": "Lambert de Vence",
+        "sex": "M",
+        "shortName": "Lambert",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "05-27",
+        "name": "Bède le Vénérable",
+        "sex": "M",
+        "shortName": "Bède",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "05-28",
+        "name": "Germain",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "05-29",
+        "name": "Marie-Madeleine de Pazzi",
+        "sex": "F",
+        "shortName": "Marie-Madeleine",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "05-30",
+        "name": "Jeanne d'Arc",
+        "sex": "F",
+        "shortName": "Jeanne",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "05-31",
+        "name": "Pétronille",
+        "sex": "F",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "06-01",
+        "name": "Angèle de Merici",
+        "sex": "F",
+        "shortName": "Angèle",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "06-03",
+        "name": "Clotilde",
+        "sex": "F",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "06-04",
+        "name": "François de Caracciolo",
+        "sex": "M",
+        "shortName": "François",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "06-05",
+        "name": "Boniface",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "06-06",
+        "name": "Norbert",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "06-10",
+        "name": "Margueritte d'Ecosse",
+        "sex": "F",
+        "shortName": "Margueritte",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "06-11",
+        "name": "Barnabé",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "06-12",
+        "name": "Jean de Saint-Facond",
+        "sex": "M",
+        "shortName": "Jean",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "06-13",
+        "name": "Antoine de Padoue",
+        "sex": "M",
+        "shortName": "Antoine",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "06-14",
+        "name": "Basile le Grand",
+        "sex": "M",
+        "shortName": "Basile",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "06-17",
+        "name": "Grégoire Barbarigo",
+        "sex": "M",
+        "shortName": "Grégoire",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "06-18",
+        "name": "Ephrem",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "06-19",
+        "name": "Julienne Falconieri",
+        "sex": "F",
+        "shortName": "Julienne",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "06-21",
+        "name": "Louis de Gonzague",
+        "sex": "M",
+        "shortName": "Louis",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "06-22",
+        "name": "Paulin",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "06-24",
+        "name": "Nativité de Saint Jean Baptiste",
+        "sex": "",
+        "shortName": "Jean-Baptiste",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "06-25",
+        "name": "Guillaume",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "06-26",
+        "name": "Jean et Paul",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": false
+    },
+    {
+        "date": "06-29",
+        "name": "Les Saints Apôtres Pierre et Paul",
+        "sex": "M",
+        "shortName": "Pierre et Paul",
+        "state": "ST",
+        "isIndividual": false
+    },
+    {
+        "date": "07-03",
+        "name": "Irénée",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "07-05",
+        "name": "Antoine-Marie Zacarria",
+        "sex": "M",
+        "shortName": "Antoine-Marie",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "07-08",
+        "name": "Elisabeth du Portugal",
+        "sex": "F",
+        "shortName": "Elisabeth",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "07-12",
+        "name": "Jean Gualbert",
+        "sex": "M",
+        "shortName": "Jean",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "07-15",
+        "name": "Henri, Empereur et Confesseur",
+        "sex": "M",
+        "shortName": "Henri",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "07-18",
+        "name": "Camille de Lellis",
+        "sex": "M",
+        "shortName": "Camille",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "07-19",
+        "name": "Vincent de Paul",
+        "sex": "M",
+        "shortName": "Vincent",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "07-20",
+        "name": "Jérome Émilien",
+        "sex": "M",
+        "shortName": "Jérome",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "07-22",
+        "name": "Marie-Madeleine",
+        "sex": "F",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "07-23",
+        "name": "Apollinaire",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "07-24",
+        "name": "Christine",
+        "sex": "F",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "07-25",
+        "name": "Jacques, Apôtre",
+        "sex": "M",
+        "shortName": "Jacques",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "07-26",
+        "name": "Anne, Mère de la Sainte Vierge",
+        "sex": "F",
+        "shortName": "Anne",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "07-29",
+        "name": "Marthe",
+        "sex": "F",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "07-30",
+        "name": "Juliette",
+        "sex": "F",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "07-31",
+        "name": "Ignace de Loyola",
+        "sex": "M",
+        "shortName": "Ignace",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "08-02",
+        "name": "Alphonse-Marie de Liguori",
+        "sex": "M",
+        "shortName": "Alphonse-Marie",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "08-07",
+        "name": "Gaétan",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "08-08",
+        "name": "Jean-Marie Vianney",
+        "sex": "M",
+        "shortName": "Curé d'Ars",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "08-10",
+        "name": "Laurent",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "08-11",
+        "name": "Claire d'Assise",
+        "sex": "F",
+        "shortName": "Claire",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "08-15",
+        "name": "Assomption de la Très Sainte Vierge Marie, Patronne Principale de la France",
+        "sex": "",
+        "shortName": "Assomption",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "08-16",
+        "name": "Joachim, Père de la Sainte VIerge",
+        "sex": "M",
+        "shortName": "Joachim",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "08-17",
+        "name": "Hyacinthe",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "08-19",
+        "name": "Jean Eudes",
+        "sex": "M",
+        "shortName": "Jean",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "08-20",
+        "name": "Bernard",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "08-21",
+        "name": "Jeanne-Françoise de Frémiot",
+        "sex": "F",
+        "shortName": "Jeanne-Françoise",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "08-22",
+        "name": "Fête du Coeur Immaculée de Marie",
+        "sex": "",
+        "shortName": "Fête",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "08-23",
+        "name": "Philippe Béniti",
+        "sex": "M",
+        "shortName": "Philippe",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "08-24",
+        "name": "Barthélemy",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "08-27",
+        "name": "Joseph Calasanz",
+        "sex": "M",
+        "shortName": "Joseph",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "08-28",
+        "name": "Augustin",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "08-29",
+        "name": "Décapitation de Saint Jean-Baptise",
+        "sex": "",
+        "shortName": "Décapitation",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "08-30",
+        "name": "Rose de Lima",
+        "sex": "F",
+        "shortName": "Rose",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "08-31",
+        "name": "Raymond Nonna",
+        "sex": "M",
+        "shortName": "Raymond",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "10-23",
+        "name": "Antoine-Marie",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "11-25",
+        "name": "Catherine d’Alexandrie",
+        "sex": "F",
+        "shortName": "Catherine",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "12-02",
+        "name": "Bibiane",
+        "sex": "F",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "12-04",
+        "name": "Chrysologue",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "12-06",
+        "name": "Nicolas",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "12-07",
+        "name": "Ambroise",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "12-08",
+        "name": "Fête de l'Immaculée Conception",
+        "sex": "",
+        "shortName": "Immaculée Conception",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "12-11",
+        "name": "Damase",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "12-13",
+        "name": "Lucie",
+        "sex": "F",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "12-16",
+        "name": "Eusèbe",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "12-17",
+        "name": "Jean de Matha",
+        "sex": "M",
+        "shortName": "Jean",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "12-21",
+        "name": "Thomas, Apôtre",
+        "sex": "M",
+        "shortName": "Thomas",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "12-26",
+        "name": "Etienne",
+        "sex": "M",
+        "shortName": "",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "12-27",
+        "name": "Jean, Apôtre et Évangéliste",
+        "sex": "M",
+        "shortName": "Jean",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": "12-28",
+        "name": "Les Saint Innocents",
+        "sex": "",
+        "shortName": "Les",
+        "state": "ST",
+        "isIndividual": false
+    }
+]
