@@ -607,6 +607,28 @@
     {
         "date": {
             "month": 4,
+            "day": 3
+        },
+        "name": "Richard de Chichester",
+        "sex": "M",
+        "shortName": "Richard",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": {
+            "month": 4,
+            "day": 3
+        },
+        "name": "Sixte Ier, Pape et Martyr",
+        "sex": "M",
+        "shortName": "Sixte",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": {
+            "month": 4,
             "day": 5
         },
         "name": "Vincent Ferrier",
