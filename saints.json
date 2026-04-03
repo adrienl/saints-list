@@ -629,6 +629,17 @@
     {
         "date": {
             "month": 4,
+            "day": 4
+        },
+        "name": "Isidore de Séville",
+        "sex": "M",
+        "shortName": "Isidore",
+        "state": "ST",
+        "isIndividual": true
+    },
+    {
+        "date": {
+            "month": 4,
             "day": 5
         },
         "name": "Vincent Ferrier",
